@@ -1,0 +1,8 @@
+1 Tải công cụ hỗ trợ Guna.UI2 WinForms
+Mở code -> Solution làm việc Nhóm 3 -> project -> Manage Nuget packges 
+->Tìm tên Guna.UI2 WinForms và cài đặt.
+2 Liên kết database Tên đăng nhập : khai
+                     Mật Khẩu :1234 
+3 Nếu chạy sai database -> create database Quanlykhachsan1   
+4 Vào nhân viên nhập tên , sđt, gmail, tên đăng nhập, mật khẩu
+5 Vào solution explorer -> function , addroom, checkout, from1 đổi đường dẫn cho máy mình tại connecstring .                      

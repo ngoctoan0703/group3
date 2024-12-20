@@ -16,7 +16,7 @@ namespace làm_việc_nhóm_3.all_user_control
     {
         function fn = new function();
         string query;
-        string connectionString = "Data Source=DESKTOP-4RB4QAK\\QUANGKHAI;Initial Catalog=Quanlikhachsan;Integrated Security=True";
+        string connectionString = "Data Source=ADMIN\\SQLEXPRESS01;Initial Catalog=Quanlikhachsan1;Integrated Security=True";
         public uc_addroom()
         {
             InitializeComponent();

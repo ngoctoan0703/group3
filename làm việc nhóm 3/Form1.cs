@@ -29,7 +29,7 @@ namespace làm_việc_nhóm_3
         private void btnlogin_Click(object sender, EventArgs e)
         {
             // Chuỗi kết nối đến SQL Server
-            string connectionString = "Data Source=DESKTOP-4RB4QAK\\QUANGKHAI;Initial Catalog=Quanlikhachsan;Integrated Security=True";
+            string connectionString = "Data Source=ADMIN\\SQLEXPRESS01;Initial Catalog=Quanlikhachsan1;Integrated Security=True";
             // Kiểm tra trường nhập liệu
             if (string.IsNullOrWhiteSpace(txtusername.Text) && string.IsNullOrWhiteSpace(txtpassword.Text))
             {

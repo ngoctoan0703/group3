@@ -15,7 +15,7 @@ namespace làm_việc_nhóm_3
         protected SqlConnection getConnection()
         {
             SqlConnection con = new SqlConnection();
-            con.ConnectionString = "Data Source=DESKTOP-4RB4QAK\\QUANGKHAI;Initial Catalog=Quanlikhachsan;Integrated Security=True";
+            con.ConnectionString = "Data Source=ADMIN\\SQLEXPRESS01;Initial Catalog=Quanlikhachsan1;Integrated Security=True";
             return con;
         }
 

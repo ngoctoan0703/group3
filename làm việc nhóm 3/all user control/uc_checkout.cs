@@ -7,7 +7,7 @@ namespace làm_việc_nhóm_3.all_user_control
 {
     public partial class uc_checkout : UserControl
     {
-        private string connectionString = "Data Source=DESKTOP-4RB4QAK\\QUANGKHAI;Initial Catalog=QLikhachsan;Integrated Security=True;TrustServerCertificate=True;";
+        private string connectionString = "Data Source=ADMIN\\SQLEXPRESS01;Initial Catalog=Quanlikhachsan1;Integrated Security=True";
 
         public uc_checkout()
         {
